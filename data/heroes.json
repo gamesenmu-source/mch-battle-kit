@@ -1,0 +1,3631 @@
+[
+  {
+    "type": 1001,
+    "name": "コナン・ドイル",
+    "nameEn": "Arthur Conan Doyle",
+    "level": 40,
+    "hp": 192,
+    "phy": 25,
+    "int": 69,
+    "agi": 138,
+    "passive": 1104,
+    "attributes": [
+      106,
+      131,
+      149
+    ],
+    "faction": 3
+  },
+  {
+    "type": 1002,
+    "name": "甲斐姫",
+    "nameEn": "Kaihime",
+    "level": 40,
+    "hp": 162,
+    "phy": 79,
+    "int": 45,
+    "agi": 118,
+    "passive": 1106,
+    "attributes": [
+      108,
+      118,
+      141
+    ],
+    "faction": 1
+  },
+  {
+    "type": 1003,
+    "name": "張遼",
+    "nameEn": "Zhang Liao",
+    "level": 40,
+    "hp": 222,
+    "phy": 67,
+    "int": 62,
+    "agi": 93,
+    "passive": 1159,
+    "attributes": [
+      121,
+      123,
+      144
+    ],
+    "faction": 5
+  },
+  {
+    "type": 1004,
+    "name": "シートン",
+    "nameEn": "Ernest Thompson Seton",
+    "level": 40,
+    "hp": 345,
+    "phy": 66,
+    "int": 69,
+    "agi": 46,
+    "passive": 1160,
+    "attributes": [
+      106,
+      113,
+      131
+    ],
+    "faction": 3
+  },
+  {
+    "type": 1005,
+    "name": "伊能忠敬",
+    "nameEn": "Inō Tadataka",
+    "level": 40,
+    "hp": 132,
+    "phy": 20,
+    "int": 74,
+    "agi": 158,
+    "passive": 1161,
+    "attributes": [
+      106,
+      114,
+      119
+    ],
+    "faction": 4
+  },
+  {
+    "type": 1006,
+    "name": "ピタゴラス",
+    "nameEn": "Pythagoras",
+    "level": 40,
+    "hp": 216,
+    "phy": 84,
+    "int": 84,
+    "agi": 56,
+    "passive": 1165,
+    "attributes": [
+      106,
+      107,
+      135
+    ],
+    "faction": 2
+  },
+  {
+    "type": 1007,
+    "name": "大長今",
+    "nameEn": "Jang-geum",
+    "level": 40,
+    "hp": 261,
+    "phy": 40,
+    "int": 115,
+    "agi": 54,
+    "passive": 1166,
+    "attributes": [
+      107,
+      108
+    ],
+    "faction": 5
+  },
+  {
+    "type": 1008,
+    "name": "ジョン・L・サリバン",
+    "nameEn": "John L. Sullivan",
+    "level": 40,
+    "hp": 264,
+    "phy": 85,
+    "int": 35,
+    "agi": 88,
+    "passive": 1203,
+    "attributes": [
+      111,
+      129,
+      145
+    ],
+    "faction": 1
+  },
+  {
+    "type": 1009,
+    "name": "ヘルクレスオオカブト",
+    "nameEn": "Hercules beetle",
+    "level": 40,
+    "hp": 267,
+    "phy": 72,
+    "int": 71,
+    "agi": 64,
+    "passive": 1219,
+    "attributes": [
+      129
+    ],
+    "faction": 2
+  },
+  {
+    "type": 1010,
+    "name": "ギラファノコギリクワガタ",
+    "nameEn": "Prosopocoilus giraffa",
+    "level": 40,
+    "hp": 306,
+    "phy": 89,
+    "int": 41,
+    "agi": 64,
+    "passive": 1220,
+    "attributes": [
+      147
+    ],
+    "faction": 3
+  },
+  {
+    "type": 1011,
+    "name": "アラン・チューリング",
+    "nameEn": "Alan Mathison Turing",
+    "level": 40,
+    "hp": 276,
+    "phy": 42,
+    "int": 94,
+    "agi": 68,
+    "passive": 1230,
+    "attributes": [
+      107,
+      131
+    ],
+    "faction": 2
+  },
+  {
+    "type": 2001,
+    "name": "ライト兄弟",
+    "nameEn": "Wright Brothers",
+    "level": 70,
+    "hp": 219,
+    "phy": 47,
+    "int": 85,
+    "agi": 135,
+    "passive": 1016,
+    "attributes": [
+      107,
+      129,
+      152,
+      153
+    ],
+    "faction": 4
+  },
+  {
+    "type": 2002,
+    "name": "スパルタクス",
+    "nameEn": "Spartacus",
+    "level": 70,
+    "hp": 573,
+    "phy": 59,
+    "int": 42,
+    "agi": 42,
+    "passive": 1020,
+    "attributes": [
+      111,
+      137
+    ],
+    "faction": 1
+  },
+  {
+    "type": 2003,
+    "name": "ジャックザリッパー",
+    "nameEn": "Jack the Ripper",
+    "level": 70,
+    "hp": 234,
+    "phy": 108,
+    "int": 25,
+    "agi": 123,
+    "passive": 1024,
+    "attributes": [
+      112,
+      116,
+      131
+    ],
+    "faction": 4
+  },
+  {
+    "type": 2004,
+    "name": "シューベルト",
+    "nameEn": "Franz Schubert ",
+    "level": 70,
+    "hp": 294,
+    "phy": 47,
+    "int": 85,
+    "agi": 110,
+    "passive": 1025,
+    "attributes": [
+      105,
+      133
+    ],
+    "faction": 3
+  },
+  {
+    "type": 2005,
+    "name": "グリム兄弟",
+    "nameEn": "Brothers Grimm",
+    "level": 70,
+    "hp": 330,
+    "phy": 35,
+    "int": 110,
+    "agi": 85,
+    "passive": 1042,
+    "attributes": [
+      106,
+      113,
+      132,
+      152,
+      211
+    ],
+    "faction": 3
+  },
+  {
+    "type": 2006,
+    "name": "アルキメデス",
+    "nameEn": "Archimedes",
+    "level": 70,
+    "hp": 174,
+    "phy": 75,
+    "int": 103,
+    "agi": 98,
+    "passive": 1045,
+    "attributes": [
+      107,
+      135
+    ],
+    "faction": 4
+  },
+  {
+    "type": 2007,
+    "name": "サンタクロース",
+    "nameEn": "Santa Claus",
+    "level": 70,
+    "hp": 255,
+    "phy": 43,
+    "int": 96,
+    "agi": 116,
+    "passive": 1048,
+    "attributes": [
+      113,
+      137,
+      138
+    ],
+    "faction": 1
+  },
+  {
+    "type": 2008,
+    "name": "シュレディンガー",
+    "nameEn": "Erwin Schrödinger",
+    "level": 70,
+    "hp": 315,
+    "phy": 31,
+    "int": 102,
+    "agi": 102,
+    "passive": 1053,
+    "attributes": [
+      107,
+      113,
+      133
+    ],
+    "faction": 4
+  },
+  {
+    "type": 2009,
+    "name": "森蘭丸",
+    "nameEn": "Mori Ranmaru",
+    "level": 70,
+    "hp": 168,
+    "phy": 79,
+    "int": 98,
+    "agi": 107,
+    "passive": 1063,
+    "attributes": [
+      118,
+      201
+    ],
+    "faction": 1
+  },
+  {
+    "type": 2010,
+    "name": "カフカ",
+    "nameEn": "Franz Kafka",
+    "level": 70,
+    "hp": 234,
+    "phy": 46,
+    "int": 68,
+    "agi": 148,
+    "passive": 1074,
+    "attributes": [
+      106,
+      136
+    ],
+    "faction": 3
+  },
+  {
+    "type": 2011,
+    "name": "孫子",
+    "nameEn": "Sun Tzu",
+    "level": 70,
+    "hp": 186,
+    "phy": 57,
+    "int": 127,
+    "agi": 94,
+    "passive": 1075,
+    "attributes": [
+      106,
+      128
+    ],
+    "faction": 5
+  },
+  {
+    "type": 2012,
+    "name": "石田三成",
+    "nameEn": "Ishida Mitsunari",
+    "level": 70,
+    "hp": 246,
+    "phy": 79,
+    "int": 116,
+    "agi": 63,
+    "passive": 1076,
+    "attributes": [
+      103,
+      118
+    ],
+    "faction": 2
+  },
+  {
+    "type": 2013,
+    "name": "許褚",
+    "nameEn": "Xu Chu",
+    "level": 70,
+    "hp": 285,
+    "phy": 131,
+    "int": 51,
+    "agi": 63,
+    "passive": 1080,
+    "attributes": [
+      121,
+      123,
+      144
+    ],
+    "faction": 5
+  },
+  {
+    "type": 2014,
+    "name": "徳川慶喜",
+    "nameEn": "Tokugawa Yoshinobu",
+    "level": 70,
+    "hp": 219,
+    "phy": 57,
+    "int": 111,
+    "agi": 99,
+    "passive": 1083,
+    "attributes": [
+      103,
+      119,
+      153
+    ],
+    "faction": 2
+  },
+  {
+    "type": 2015,
+    "name": "モンテスキュー",
+    "nameEn": "Montesquieu",
+    "level": 70,
+    "hp": 186,
+    "phy": 51,
+    "int": 116,
+    "agi": 111,
+    "passive": 1089,
+    "attributes": [
+      106,
+      127
+    ],
+    "faction": 5
+  },
+  {
+    "type": 2016,
+    "name": "アナスタシア",
+    "nameEn": "Anastasia",
+    "level": 70,
+    "hp": 150,
+    "phy": 31,
+    "int": 111,
+    "agi": 148,
+    "passive": 1093,
+    "attributes": [
+      103,
+      108,
+      116,
+      134
+    ],
+    "faction": 2
+  },
+  {
+    "type": 2017,
+    "name": "ジェロニモ",
+    "nameEn": "Geronimo",
+    "level": 70,
+    "hp": 378,
+    "phy": 94,
+    "int": 26,
+    "agi": 94,
+    "passive": 1098,
+    "attributes": [
+      129,
+      138,
+      144
+    ],
+    "faction": 1
+  },
+  {
+    "type": 2018,
+    "name": "茶々",
+    "nameEn": "Lady Chacha",
+    "level": 70,
+    "hp": 186,
+    "phy": 68,
+    "int": 111,
+    "agi": 99,
+    "passive": 1097,
+    "attributes": [
+      108,
+      118,
+      141
+    ],
+    "faction": 3
+  },
+  {
+    "type": 2019,
+    "name": "金太郎",
+    "nameEn": "Kintaro",
+    "level": 70,
+    "hp": 339,
+    "phy": 122,
+    "int": 20,
+    "agi": 85,
+    "passive": 1100,
+    "attributes": [
+      113,
+      126,
+      144
+    ],
+    "faction": 1
+  },
+  {
+    "type": 2020,
+    "name": "明智光秀",
+    "nameEn": "Akechi Mitsuhide",
+    "level": 70,
+    "hp": 183,
+    "phy": 57,
+    "int": 111,
+    "agi": 111,
+    "passive": 1103,
+    "attributes": [
+      115,
+      118,
+      201
+    ],
+    "faction": 2
+  },
+  {
+    "type": 2021,
+    "name": "高杉晋作",
+    "nameEn": "Takasugi Shinsaku",
+    "level": 70,
+    "hp": 117,
+    "phy": 68,
+    "int": 111,
+    "agi": 122,
+    "passive": 1108,
+    "attributes": [
+      102,
+      120
+    ],
+    "faction": 4
+  },
+  {
+    "type": 2022,
+    "name": "アンデルセン",
+    "nameEn": "Hans Christian Andersen",
+    "level": 70,
+    "hp": 234,
+    "phy": 46,
+    "int": 100,
+    "agi": 116,
+    "passive": 1115,
+    "attributes": [
+      106,
+      136,
+      152,
+      211
+    ],
+    "faction": 3
+  },
+  {
+    "type": 2023,
+    "name": "ミケランジェロ",
+    "nameEn": "Michelangelo",
+    "level": 70,
+    "hp": 252,
+    "phy": 63,
+    "int": 142,
+    "agi": 51,
+    "passive": 1117,
+    "attributes": [
+      104,
+      130
+    ],
+    "faction": 3
+  },
+  {
+    "type": 2024,
+    "name": "サロメ",
+    "nameEn": "Salome",
+    "level": 70,
+    "hp": 339,
+    "phy": 79,
+    "int": 43,
+    "agi": 105,
+    "passive": 1119,
+    "attributes": [
+      108,
+      116,
+      143,
+      146
+    ],
+    "faction": 1
+  },
+  {
+    "type": 2025,
+    "name": "サトシ・ナカモト ALPHA CC",
+    "nameEn": "SATOSHI・NAKAMOTO ALPHA CC",
+    "level": 70,
+    "hp": 312,
+    "phy": 105,
+    "int": 37,
+    "agi": 94,
+    "passive": 1122,
+    "attributes": [
+      107,
+      149
+    ],
+    "faction": 3
+  },
+  {
+    "type": 2026,
+    "name": "豊臣秀吉",
+    "nameEn": "Toyotomi Hideyoshi",
+    "level": 70,
+    "hp": 210,
+    "phy": 63,
+    "int": 51,
+    "agi": 156,
+    "passive": 1124,
+    "attributes": [
+      101,
+      113,
+      118,
+      212
+    ],
+    "faction": 2
+  },
+  {
+    "type": 2027,
+    "name": "イソップ",
+    "nameEn": "Aesop",
+    "level": 70,
+    "hp": 360,
+    "phy": 119,
+    "int": 51,
+    "agi": 50,
+    "passive": 1129,
+    "attributes": [
+      106,
+      113,
+      135,
+      211
+    ],
+    "faction": 3
+  },
+  {
+    "type": 2028,
+    "name": "チュン姉妹",
+    "nameEn": "Trưng Sisters",
+    "level": 70,
+    "hp": 222,
+    "phy": 66,
+    "int": 125,
+    "agi": 75,
+    "passive": 1130,
+    "attributes": [
+      108,
+      113,
+      147,
+      152,
+      209
+    ],
+    "faction": 2
+  },
+  {
+    "type": 2029,
+    "name": "一休",
+    "nameEn": "Ikkyu",
+    "level": 70,
+    "hp": 282,
+    "phy": 72,
+    "int": 120,
+    "agi": 54,
+    "passive": 1132,
+    "attributes": [
+      118,
+      138,
+      149
+    ],
+    "faction": 4
+  },
+  {
+    "type": 2030,
+    "name": "出雲阿国",
+    "nameEn": "Izumo no Okuni",
+    "level": 70,
+    "hp": 489,
+    "phy": 71,
+    "int": 59,
+    "agi": 47,
+    "passive": 1137,
+    "attributes": [
+      108,
+      118,
+      143
+    ],
+    "faction": 3
+  },
+  {
+    "type": 2031,
+    "name": "ビスマルク",
+    "nameEn": "Bismarck",
+    "level": 70,
+    "hp": 354,
+    "phy": 113,
+    "int": 56,
+    "agi": 53,
+    "passive": 1138,
+    "attributes": [
+      101,
+      103,
+      132
+    ],
+    "faction": 2
+  },
+  {
+    "type": 2032,
+    "name": "モンゴメリ",
+    "nameEn": "Montgomery",
+    "level": 70,
+    "hp": 255,
+    "phy": 35,
+    "int": 116,
+    "agi": 104,
+    "passive": 1139,
+    "attributes": [
+      106,
+      108,
+      129
+    ],
+    "faction": 1
+  },
+  {
+    "type": 2033,
+    "name": "ゲーテ",
+    "nameEn": "Goethe",
+    "level": 70,
+    "hp": 420,
+    "phy": 57,
+    "int": 103,
+    "agi": 40,
+    "passive": 1141,
+    "attributes": [
+      103,
+      106,
+      107,
+      132
+    ],
+    "faction": 5
+  },
+  {
+    "type": 2034,
+    "name": "プラトン",
+    "nameEn": "Plato",
+    "level": 70,
+    "hp": 276,
+    "phy": 117,
+    "int": 64,
+    "agi": 67,
+    "passive": 1144,
+    "attributes": [
+      106,
+      135
+    ],
+    "faction": 5
+  },
+  {
+    "type": 2035,
+    "name": "猿田彦",
+    "nameEn": "Sarutahiko",
+    "level": 70,
+    "hp": 300,
+    "phy": 66,
+    "int": 86,
+    "agi": 88,
+    "passive": 1149,
+    "attributes": [
+      107,
+      126,
+      139,
+      208
+    ],
+    "faction": 4
+  },
+  {
+    "type": 2036,
+    "name": "樋口一葉",
+    "nameEn": "Higuchi Ichiyō",
+    "level": 70,
+    "hp": 141,
+    "phy": 39,
+    "int": 130,
+    "agi": 124,
+    "passive": 1152,
+    "attributes": [
+      106,
+      108,
+      126
+    ],
+    "faction": 5
+  },
+  {
+    "type": 2037,
+    "name": "孫策",
+    "nameEn": "Sun Ce",
+    "level": 70,
+    "hp": 288,
+    "phy": 140,
+    "int": 35,
+    "agi": 69,
+    "passive": 1157,
+    "attributes": [
+      121,
+      124
+    ],
+    "faction": 1
+  },
+  {
+    "type": 2038,
+    "name": "平清盛",
+    "nameEn": "Taira no Kiyomori",
+    "level": 70,
+    "hp": 207,
+    "phy": 113,
+    "int": 54,
+    "agi": 104,
+    "passive": 1162,
+    "attributes": [
+      103,
+      115,
+      117
+    ],
+    "faction": 2
+  },
+  {
+    "type": 2039,
+    "name": "ドストエフスキー",
+    "nameEn": "Fyodor Dostoevsky",
+    "level": 70,
+    "hp": 336,
+    "phy": 34,
+    "int": 134,
+    "agi": 60,
+    "passive": 1170,
+    "attributes": [
+      106,
+      115,
+      134
+    ],
+    "faction": 2
+  },
+  {
+    "type": 2040,
+    "name": "花木蘭",
+    "nameEn": "Hua Mulan",
+    "level": 70,
+    "hp": 357,
+    "phy": 110,
+    "int": 53,
+    "agi": 58,
+    "passive": 1173,
+    "attributes": [
+      108,
+      128
+    ],
+    "faction": 1
+  },
+  {
+    "type": 2041,
+    "name": "ベンジャミン・フランクリン",
+    "nameEn": "Benjamin Franklin",
+    "level": 70,
+    "hp": 255,
+    "phy": 100,
+    "int": 99,
+    "agi": 56,
+    "passive": 1178,
+    "attributes": [
+      103,
+      106,
+      107,
+      129,
+      202
+    ],
+    "faction": 4
+  },
+  {
+    "type": 2042,
+    "name": "ヴァスコ・ダ・ガマ",
+    "nameEn": "Vasco da Gama",
+    "level": 70,
+    "hp": 525,
+    "phy": 25,
+    "int": 24,
+    "agi": 116,
+    "passive": 1183,
+    "attributes": [
+      109,
+      114,
+      146
+    ],
+    "faction": 4
+  },
+  {
+    "type": 2043,
+    "name": "霧隠才蔵",
+    "nameEn": "Kirigakure Saizō",
+    "level": 70,
+    "hp": 207,
+    "phy": 115,
+    "int": 65,
+    "agi": 91,
+    "passive": 1184,
+    "attributes": [
+      112,
+      126
+    ],
+    "faction": 5
+  },
+  {
+    "type": 2044,
+    "name": "ソクラテス",
+    "nameEn": "Socrates",
+    "level": 70,
+    "hp": 231,
+    "phy": 84,
+    "int": 90,
+    "agi": 89,
+    "passive": 1187,
+    "attributes": [
+      106,
+      135
+    ],
+    "faction": 5
+  },
+  {
+    "type": 2045,
+    "name": "達磨",
+    "nameEn": "Bodhidharma",
+    "level": 70,
+    "hp": 225,
+    "phy": 89,
+    "int": 88,
+    "agi": 88,
+    "passive": 1192,
+    "attributes": [
+      128,
+      138,
+      145
+    ],
+    "faction": 5
+  },
+  {
+    "type": 2046,
+    "name": "北条政子",
+    "nameEn": "Hōjō Masako",
+    "level": 70,
+    "hp": 273,
+    "phy": 114,
+    "int": 60,
+    "agi": 75,
+    "passive": 1194,
+    "attributes": [
+      101,
+      103,
+      108,
+      117,
+      138
+    ],
+    "faction": 2
+  },
+  {
+    "type": 2047,
+    "name": "アリストテレス",
+    "nameEn": "Aristotle",
+    "level": 70,
+    "hp": 351,
+    "phy": 58,
+    "int": 124,
+    "agi": 41,
+    "passive": 1198,
+    "attributes": [
+      106,
+      135,
+      154
+    ],
+    "faction": 5
+  },
+  {
+    "type": 2048,
+    "name": "ルノワール",
+    "nameEn": "Pierre-Auguste Renoir",
+    "level": 70,
+    "hp": 225,
+    "phy": 32,
+    "int": 123,
+    "agi": 110,
+    "passive": 1202,
+    "attributes": [
+      104,
+      127
+    ],
+    "faction": 3
+  },
+  {
+    "type": 2049,
+    "name": "ショパン",
+    "nameEn": "Frédéric Chopin",
+    "level": 70,
+    "hp": 330,
+    "phy": 69,
+    "int": 77,
+    "agi": 84,
+    "passive": 1205,
+    "attributes": [
+      105,
+      136
+    ],
+    "faction": 3
+  },
+  {
+    "type": 2050,
+    "name": "イッパツマン & 逆転王",
+    "nameEn": "Ippatsuman & Gyakuten-oh",
+    "level": 70,
+    "hp": 300,
+    "phy": 109,
+    "int": 41,
+    "agi": 90,
+    "passive": 1209,
+    "attributes": [
+      126,
+      144,
+      145,
+      153
+    ],
+    "faction": 1
+  },
+  {
+    "type": 2051,
+    "name": "アーマロイド・レディ",
+    "nameEn": "Armaroid Lady",
+    "level": 70,
+    "hp": 309,
+    "phy": 88,
+    "int": 60,
+    "agi": 89,
+    "passive": 1212,
+    "attributes": [
+      108,
+      114,
+      152,
+      153,
+      154
+    ],
+    "faction": 4
+  },
+  {
+    "type": 2052,
+    "name": "UKA",
+    "nameEn": "UKA",
+    "level": 70,
+    "hp": 264,
+    "phy": 10,
+    "int": 143,
+    "agi": 99,
+    "passive": 1216,
+    "attributes": [
+      108,
+      113,
+      153,
+      214
+    ],
+    "faction": 1
+  },
+  {
+    "type": 2053,
+    "name": "RAMON",
+    "nameEn": "RAMON",
+    "level": 70,
+    "hp": 300,
+    "phy": 120,
+    "int": 69,
+    "agi": 51,
+    "passive": 1217,
+    "attributes": [
+      107,
+      111,
+      145,
+      151,
+      214
+    ],
+    "faction": 2
+  },
+  {
+    "type": 3001,
+    "name": "ETHEREMON-RED",
+    "nameEn": "ETHEREMON-RED",
+    "level": 80,
+    "hp": 372,
+    "phy": 108,
+    "int": 70,
+    "agi": 82,
+    "passive": 1015,
+    "attributes": [
+      111,
+      206
+    ],
+    "faction": 1
+  },
+  {
+    "type": 3002,
+    "name": "ダルタニャン",
+    "nameEn": "D'Artagnan",
+    "level": 80,
+    "hp": 153,
+    "phy": 96,
+    "int": 96,
+    "agi": 141,
+    "passive": 1037,
+    "attributes": [
+      110,
+      127
+    ],
+    "faction": 1
+  },
+  {
+    "type": 3003,
+    "name": "平賀源内",
+    "nameEn": "Gennai Hiraga",
+    "level": 80,
+    "hp": 303,
+    "phy": 82,
+    "int": 119,
+    "agi": 82,
+    "passive": 1038,
+    "attributes": [
+      107,
+      119,
+      153
+    ],
+    "faction": 5
+  },
+  {
+    "type": 3004,
+    "name": "マタ・ハリ",
+    "nameEn": "Mata Hari",
+    "level": 80,
+    "hp": 225,
+    "phy": 59,
+    "int": 119,
+    "agi": 131,
+    "passive": 1021,
+    "attributes": [
+      108,
+      112,
+      136
+    ],
+    "faction": 5
+  },
+  {
+    "type": 3005,
+    "name": "ETHEREMON-BLUE",
+    "nameEn": "ETHEREMON-BLUE",
+    "level": 80,
+    "hp": 372,
+    "phy": 45,
+    "int": 119,
+    "agi": 96,
+    "passive": 1022,
+    "attributes": [
+      102,
+      206
+    ],
+    "faction": 2
+  },
+  {
+    "type": 3006,
+    "name": "ETHEREMON-GREEN",
+    "nameEn": "ETHEREMON-GREEN",
+    "level": 80,
+    "hp": 288,
+    "phy": 96,
+    "int": 96,
+    "agi": 96,
+    "passive": 1023,
+    "attributes": [
+      105,
+      206
+    ],
+    "faction": 3
+  },
+  {
+    "type": 3007,
+    "name": "皇帝ネロ",
+    "nameEn": "Emperor Nero",
+    "level": 80,
+    "hp": 372,
+    "phy": 82,
+    "int": 108,
+    "agi": 70,
+    "passive": 1040,
+    "attributes": [
+      101,
+      103,
+      137,
+      141,
+      143
+    ],
+    "faction": 2
+  },
+  {
+    "type": 3008,
+    "name": "ノストラダムス",
+    "nameEn": "Michel Nostradamus",
+    "level": 80,
+    "hp": 372,
+    "phy": 45,
+    "int": 145,
+    "agi": 70,
+    "passive": 1036,
+    "attributes": [
+      107,
+      116,
+      127
+    ],
+    "faction": 5
+  },
+  {
+    "type": 3009,
+    "name": "太公望",
+    "nameEn": "Jiang Ziya",
+    "level": 80,
+    "hp": 330,
+    "phy": 70,
+    "int": 145,
+    "agi": 59,
+    "passive": 1039,
+    "attributes": [
+      128,
+      139
+    ],
+    "faction": 5
+  },
+  {
+    "type": 3010,
+    "name": "服部半蔵",
+    "nameEn": "Hanzo Hattori",
+    "level": 80,
+    "hp": 303,
+    "phy": 82,
+    "int": 70,
+    "agi": 131,
+    "passive": 1041,
+    "attributes": [
+      112,
+      118
+    ],
+    "faction": 1
+  },
+  {
+    "type": 3011,
+    "name": "前田 慶次",
+    "nameEn": "Keiji Maeda",
+    "level": 80,
+    "hp": 288,
+    "phy": 109,
+    "int": 96,
+    "agi": 83,
+    "passive": 1044,
+    "attributes": [
+      118,
+      141
+    ],
+    "faction": 3
+  },
+  {
+    "type": 3012,
+    "name": "天草四郎",
+    "nameEn": "Amakusa Shirō",
+    "level": 80,
+    "hp": 288,
+    "phy": 83,
+    "int": 109,
+    "agi": 96,
+    "passive": 1046,
+    "attributes": [
+      115,
+      119,
+      138
+    ],
+    "faction": 5
+  },
+  {
+    "type": 3013,
+    "name": "石川五右衛門",
+    "nameEn": "Goemon Ishikawa",
+    "level": 80,
+    "hp": 321,
+    "phy": 104,
+    "int": 52,
+    "agi": 121,
+    "passive": 1049,
+    "attributes": [
+      112,
+      118
+    ],
+    "faction": 4
+  },
+  {
+    "type": 3014,
+    "name": "直江兼続",
+    "nameEn": "Naoe Kanetsugu",
+    "level": 80,
+    "hp": 270,
+    "phy": 115,
+    "int": 112,
+    "agi": 67,
+    "passive": 1050,
+    "attributes": [
+      118
+    ],
+    "faction": 2
+  },
+  {
+    "type": 3015,
+    "name": "イワン雷帝",
+    "nameEn": "Ivan the Terrible",
+    "level": 80,
+    "hp": 510,
+    "phy": 57,
+    "int": 74,
+    "agi": 83,
+    "passive": 1054,
+    "attributes": [
+      134,
+      141
+    ],
+    "faction": 2
+  },
+  {
+    "type": 3016,
+    "name": "松尾芭蕉",
+    "nameEn": "Matsuo Bashō",
+    "level": 80,
+    "hp": 210,
+    "phy": 86,
+    "int": 102,
+    "agi": 125,
+    "passive": 1059,
+    "attributes": [
+      106,
+      114,
+      119
+    ],
+    "faction": 3
+  },
+  {
+    "type": 3017,
+    "name": "三蔵法師",
+    "nameEn": "Xuanzang",
+    "level": 80,
+    "hp": 324,
+    "phy": 70,
+    "int": 74,
+    "agi": 131,
+    "passive": 1061,
+    "attributes": [
+      106,
+      114,
+      128,
+      138
+    ],
+    "faction": 5
+  },
+  {
+    "type": 3018,
+    "name": "武蔵坊弁慶",
+    "nameEn": "Benkei",
+    "level": 80,
+    "hp": 399,
+    "phy": 128,
+    "int": 40,
+    "agi": 83,
+    "passive": 1064,
+    "attributes": [
+      117,
+      141
+    ],
+    "faction": 4
+  },
+  {
+    "type": 3019,
+    "name": "黄忠",
+    "nameEn": "Huang Zhong",
+    "level": 80,
+    "hp": 144,
+    "phy": 118,
+    "int": 112,
+    "agi": 106,
+    "passive": 1066,
+    "attributes": [
+      121,
+      125,
+      142
+    ],
+    "faction": 3
+  },
+  {
+    "type": 3020,
+    "name": "貂蝉",
+    "nameEn": "Diao Chan",
+    "level": 80,
+    "hp": 132,
+    "phy": 77,
+    "int": 135,
+    "agi": 128,
+    "passive": 1070,
+    "attributes": [
+      108,
+      121
+    ],
+    "faction": 4
+  },
+  {
+    "type": 3021,
+    "name": "ヴァレンティヌス",
+    "nameEn": "Saint Valentine",
+    "level": 80,
+    "hp": 285,
+    "phy": 55,
+    "int": 122,
+    "agi": 112,
+    "passive": 1073,
+    "attributes": [
+      137,
+      138
+    ],
+    "faction": 5
+  },
+  {
+    "type": 3022,
+    "name": "ポカホンタス",
+    "nameEn": "Pocahontas",
+    "level": 80,
+    "hp": 246,
+    "phy": 55,
+    "int": 112,
+    "agi": 135,
+    "passive": 1079,
+    "attributes": [
+      108,
+      129
+    ],
+    "faction": 3
+  },
+  {
+    "type": 3023,
+    "name": "孫堅",
+    "nameEn": "Sun Jian",
+    "level": 80,
+    "hp": 249,
+    "phy": 128,
+    "int": 55,
+    "agi": 118,
+    "passive": 1082,
+    "attributes": [
+      121,
+      124
+    ],
+    "faction": 1
+  },
+  {
+    "type": 3024,
+    "name": "ルーベンス",
+    "nameEn": "Peter Paul Rubens",
+    "level": 80,
+    "hp": 198,
+    "phy": 55,
+    "int": 141,
+    "agi": 122,
+    "passive": 1088,
+    "attributes": [
+      104,
+      136
+    ],
+    "faction": 3
+  },
+  {
+    "type": 3025,
+    "name": "真田幸村",
+    "nameEn": "Sanada Yukimura",
+    "level": 80,
+    "hp": 285,
+    "phy": 100,
+    "int": 48,
+    "agi": 141,
+    "passive": 1092,
+    "attributes": [
+      118,
+      141
+    ],
+    "faction": 1
+  },
+  {
+    "type": 3026,
+    "name": "ロビンフッド",
+    "nameEn": "Robin Hood",
+    "level": 80,
+    "hp": 180,
+    "phy": 61,
+    "int": 100,
+    "agi": 163,
+    "passive": 1095,
+    "attributes": [
+      131,
+      139,
+      142
+    ],
+    "faction": 4
+  },
+  {
+    "type": 3027,
+    "name": "楊端和",
+    "nameEn": "Yang Duan He",
+    "level": 80,
+    "hp": 150,
+    "phy": 128,
+    "int": 49,
+    "agi": 157,
+    "passive": 1096,
+    "attributes": [
+      122,
+      149
+    ],
+    "faction": 1
+  },
+  {
+    "type": 3028,
+    "name": "モネ",
+    "nameEn": "Claude Monet",
+    "level": 80,
+    "hp": 351,
+    "phy": 55,
+    "int": 122,
+    "agi": 90,
+    "passive": 1099,
+    "attributes": [
+      104,
+      127
+    ],
+    "faction": 3
+  },
+  {
+    "type": 3029,
+    "name": "メアリ・リード",
+    "nameEn": "Mary Read",
+    "level": 80,
+    "hp": 351,
+    "phy": 84,
+    "int": 55,
+    "agi": 128,
+    "passive": 1102,
+    "attributes": [
+      108,
+      109,
+      129,
+      144,
+      205
+    ],
+    "faction": 4
+  },
+  {
+    "type": 3030,
+    "name": "シェイクスピア",
+    "nameEn": "William Shakespeare",
+    "level": 80,
+    "hp": 198,
+    "phy": 49,
+    "int": 118,
+    "agi": 151,
+    "passive": 1107,
+    "attributes": [
+      106,
+      131,
+      143
+    ],
+    "faction": 3
+  },
+  {
+    "type": 3031,
+    "name": "ワイアット・アープ",
+    "nameEn": "Wyatt Earp",
+    "level": 80,
+    "hp": 411,
+    "phy": 45,
+    "int": 67,
+    "agi": 135,
+    "passive": 1110,
+    "attributes": [
+      110,
+      111,
+      150
+    ],
+    "faction": 4
+  },
+  {
+    "type": 3032,
+    "name": "アン・ボニー",
+    "nameEn": "Anne Bonny",
+    "level": 80,
+    "hp": 402,
+    "phy": 55,
+    "int": 83,
+    "agi": 112,
+    "passive": 1116,
+    "attributes": [
+      108,
+      109,
+      110,
+      129,
+      205
+    ],
+    "faction": 5
+  },
+  {
+    "type": 3034,
+    "name": "パーシヴァル",
+    "nameEn": "Percival",
+    "level": 80,
+    "hp": 486,
+    "phy": 100,
+    "int": 32,
+    "agi": 90,
+    "passive": 1123,
+    "attributes": [
+      139,
+      140,
+      141,
+      207
+    ],
+    "faction": 4
+  },
+  {
+    "type": 3035,
+    "name": "小野小町",
+    "nameEn": "Ono no Komachi",
+    "level": 80,
+    "hp": 324,
+    "phy": 26,
+    "int": 144,
+    "agi": 106,
+    "passive": 1125,
+    "attributes": [
+      106,
+      108,
+      117,
+      210
+    ],
+    "faction": 3
+  },
+  {
+    "type": 3036,
+    "name": "ベル・スター",
+    "nameEn": "Belle Starr",
+    "level": 80,
+    "hp": 348,
+    "phy": 71,
+    "int": 117,
+    "agi": 80,
+    "passive": 1131,
+    "attributes": [
+      108,
+      110,
+      150
+    ],
+    "faction": 4
+  },
+  {
+    "type": 3037,
+    "name": "マゼラン",
+    "nameEn": "Magellan",
+    "level": 80,
+    "hp": 192,
+    "phy": 112,
+    "int": 62,
+    "agi": 146,
+    "passive": 1133,
+    "attributes": [
+      109,
+      114,
+      146
+    ],
+    "faction": 4
+  },
+  {
+    "type": 3038,
+    "name": "猿飛佐助",
+    "nameEn": "Sarutobi Sasuke",
+    "level": 80,
+    "hp": 270,
+    "phy": 88,
+    "int": 58,
+    "agi": 148,
+    "passive": 1143,
+    "attributes": [
+      112,
+      126
+    ],
+    "faction": 1
+  },
+  {
+    "type": 3039,
+    "name": "ラクシュミー・バーイ",
+    "nameEn": "Lakshmi Bai",
+    "level": 80,
+    "hp": 318,
+    "phy": 134,
+    "int": 57,
+    "agi": 87,
+    "passive": 1145,
+    "attributes": [
+      108,
+      113,
+      147,
+      209
+    ],
+    "faction": 2
+  },
+  {
+    "type": 3040,
+    "name": "ギルガメッシュ",
+    "nameEn": "Gilgamesh",
+    "level": 80,
+    "hp": 456,
+    "phy": 126,
+    "int": 43,
+    "agi": 63,
+    "passive": 1153,
+    "attributes": [
+      101,
+      103,
+      113,
+      145,
+      146
+    ],
+    "faction": 1
+  },
+  {
+    "type": 3041,
+    "name": "ラファエロ",
+    "nameEn": "Raffaello Santi",
+    "level": 80,
+    "hp": 165,
+    "phy": 46,
+    "int": 146,
+    "agi": 137,
+    "passive": 1158,
+    "attributes": [
+      104,
+      130
+    ],
+    "faction": 3
+  },
+  {
+    "type": 3042,
+    "name": "コロンブス",
+    "nameEn": "Christopher Columbus",
+    "level": 80,
+    "hp": 492,
+    "phy": 80,
+    "int": 51,
+    "agi": 89,
+    "passive": 1163,
+    "attributes": [
+      109,
+      114,
+      146
+    ],
+    "faction": 4
+  },
+  {
+    "type": 3043,
+    "name": "ニュートン",
+    "nameEn": "Isaac Newton",
+    "level": 80,
+    "hp": 387,
+    "phy": 101,
+    "int": 86,
+    "agi": 68,
+    "passive": 1171,
+    "attributes": [
+      107,
+      131,
+      154
+    ],
+    "faction": 5
+  },
+  {
+    "type": 3044,
+    "name": "徳川家康",
+    "nameEn": "Tokugawa Ieyasu",
+    "level": 80,
+    "hp": 309,
+    "phy": 99,
+    "int": 75,
+    "agi": 107,
+    "passive": 1177,
+    "attributes": [
+      101,
+      103,
+      119,
+      212
+    ],
+    "faction": 2
+  },
+  {
+    "type": 3045,
+    "name": "斎藤一",
+    "nameEn": "Saitō Hajime",
+    "level": 80,
+    "hp": 366,
+    "phy": 141,
+    "int": 50,
+    "agi": 71,
+    "passive": 1182,
+    "attributes": [
+      111,
+      120,
+      204
+    ],
+    "faction": 2
+  },
+  {
+    "type": 3046,
+    "name": "マリア・テレジア",
+    "nameEn": "Maria Theresa",
+    "level": 80,
+    "hp": 462,
+    "phy": 28,
+    "int": 132,
+    "agi": 70,
+    "passive": 1186,
+    "attributes": [
+      101,
+      103,
+      108,
+      133
+    ],
+    "faction": 2
+  },
+  {
+    "type": 3047,
+    "name": "アッティラ",
+    "nameEn": "Attila",
+    "level": 80,
+    "hp": 453,
+    "phy": 150,
+    "int": 31,
+    "agi": 52,
+    "passive": 1189,
+    "attributes": [
+      101,
+      136,
+      147
+    ],
+    "faction": 2
+  },
+  {
+    "type": 3048,
+    "name": "馬超",
+    "nameEn": "Ma Chao",
+    "level": 80,
+    "hp": 276,
+    "phy": 129,
+    "int": 58,
+    "agi": 105,
+    "passive": 1190,
+    "attributes": [
+      121,
+      125,
+      141
+    ],
+    "faction": 3
+  },
+  {
+    "type": 3049,
+    "name": "董卓",
+    "nameEn": "Dong Zhuo",
+    "level": 80,
+    "hp": 291,
+    "phy": 143,
+    "int": 72,
+    "agi": 72,
+    "passive": 1193,
+    "attributes": [
+      101,
+      121
+    ],
+    "faction": 4
+  },
+  {
+    "type": 3050,
+    "name": "メイヴ",
+    "nameEn": "Medb",
+    "level": 80,
+    "hp": 153,
+    "phy": 111,
+    "int": 111,
+    "agi": 111,
+    "passive": 1196,
+    "attributes": [
+      108,
+      139,
+      140,
+      141
+    ],
+    "faction": 1
+  },
+  {
+    "type": 3051,
+    "name": "源頼朝",
+    "nameEn": "Minamoto no Yoritomo",
+    "level": 80,
+    "hp": 240,
+    "phy": 131,
+    "int": 64,
+    "agi": 109,
+    "passive": 1204,
+    "attributes": [
+      103,
+      113,
+      117
+    ],
+    "faction": 2
+  },
+  {
+    "type": 3052,
+    "name": "キャシャーン & フレンダー",
+    "nameEn": "Casshan & Friender",
+    "level": 80,
+    "hp": 321,
+    "phy": 83,
+    "int": 126,
+    "agi": 68,
+    "passive": 1208,
+    "attributes": [
+      113,
+      126,
+      145,
+      153
+    ],
+    "faction": 5
+  },
+  {
+    "type": 3053,
+    "name": "クリスタル・ボーイ",
+    "nameEn": "Crystal Bowie",
+    "level": 80,
+    "hp": 318,
+    "phy": 64,
+    "int": 61,
+    "agi": 153,
+    "passive": 1211,
+    "attributes": [
+      145,
+      153,
+      154
+    ],
+    "faction": 5
+  },
+  {
+    "type": 3054,
+    "name": "DOURAN",
+    "nameEn": "DOURAN",
+    "level": 80,
+    "hp": 417,
+    "phy": 46,
+    "int": 47,
+    "agi": 152,
+    "passive": 1215,
+    "attributes": [
+      108,
+      114,
+      143,
+      214
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4001,
+    "name": "張飛",
+    "nameEn": "Zhang Fei",
+    "level": 90,
+    "hp": 516,
+    "phy": 133,
+    "int": 88,
+    "agi": 55,
+    "passive": 1006,
+    "attributes": [
+      121,
+      125,
+      141,
+      203
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4002,
+    "name": "ナイチンゲール",
+    "nameEn": "Florence Nightingale",
+    "level": 90,
+    "hp": 345,
+    "phy": 88,
+    "int": 133,
+    "agi": 112,
+    "passive": 1007,
+    "attributes": [
+      107,
+      108,
+      131
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4003,
+    "name": "ベートーヴェン",
+    "nameEn": "Ludwig van Beethoven",
+    "level": 90,
+    "hp": 324,
+    "phy": 95,
+    "int": 133,
+    "agi": 112,
+    "passive": 1008,
+    "attributes": [
+      105,
+      132
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4004,
+    "name": "佐々木小次郎",
+    "nameEn": "Kojiro Sasaki",
+    "level": 90,
+    "hp": 324,
+    "phy": 133,
+    "int": 64,
+    "agi": 143,
+    "passive": 1009,
+    "attributes": [
+      111,
+      119
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4005,
+    "name": "勝海舟",
+    "nameEn": "Kaishu Katsu",
+    "level": 90,
+    "hp": 387,
+    "phy": 112,
+    "int": 95,
+    "agi": 112,
+    "passive": 1010,
+    "attributes": [
+      106,
+      109,
+      120
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4006,
+    "name": "ビリー・ザ・キッド",
+    "nameEn": "Billy the Kid",
+    "level": 90,
+    "hp": 354,
+    "phy": 78,
+    "int": 119,
+    "agi": 133,
+    "passive": 1011,
+    "attributes": [
+      110,
+      111,
+      150
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4007,
+    "name": "トーマス・エジソン",
+    "nameEn": "Thomas Edison",
+    "level": 90,
+    "hp": 459,
+    "phy": 88,
+    "int": 119,
+    "agi": 88,
+    "passive": 1012,
+    "attributes": [
+      107,
+      129,
+      153
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4008,
+    "name": "マルコ・ポーロ",
+    "nameEn": "Marco Polo",
+    "level": 90,
+    "hp": 387,
+    "phy": 112,
+    "int": 95,
+    "agi": 112,
+    "passive": 1013,
+    "attributes": [
+      106,
+      113,
+      114,
+      130
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4009,
+    "name": "伊達政宗",
+    "nameEn": "Masamune Date",
+    "level": 90,
+    "hp": 354,
+    "phy": 157,
+    "int": 78,
+    "agi": 95,
+    "passive": 1014,
+    "attributes": [
+      118,
+      151
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4010,
+    "name": "王キ",
+    "nameEn": "Wang Ki",
+    "level": 90,
+    "hp": 468,
+    "phy": 150,
+    "int": 71,
+    "agi": 71,
+    "passive": 1035,
+    "attributes": [
+      122,
+      141
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4011,
+    "name": "マルクス",
+    "nameEn": "Karl Marx",
+    "level": 90,
+    "hp": 375,
+    "phy": 78,
+    "int": 157,
+    "agi": 88,
+    "passive": 1032,
+    "attributes": [
+      106,
+      115,
+      132
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4012,
+    "name": "沖田総司",
+    "nameEn": "Soji Okita",
+    "level": 90,
+    "hp": 303,
+    "phy": 102,
+    "int": 88,
+    "agi": 157,
+    "passive": 1033,
+    "attributes": [
+      120,
+      204
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4013,
+    "name": "チャイコフスキー",
+    "nameEn": "Pyotr Tchaikovsky",
+    "level": 90,
+    "hp": 375,
+    "phy": 78,
+    "int": 126,
+    "agi": 119,
+    "passive": 1034,
+    "attributes": [
+      105,
+      113,
+      134
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4014,
+    "name": "マリー・アントワネット",
+    "nameEn": "Marie Antoinette",
+    "level": 90,
+    "hp": 480,
+    "phy": 88,
+    "int": 112,
+    "agi": 88,
+    "passive": 1031,
+    "attributes": [
+      103,
+      108,
+      127
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4015,
+    "name": "楊貴妃",
+    "nameEn": "Yang Guifei",
+    "level": 90,
+    "hp": 267,
+    "phy": 86,
+    "int": 146,
+    "agi": 127,
+    "passive": 1043,
+    "attributes": [
+      105,
+      108,
+      128,
+      143,
+      210
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4016,
+    "name": "呂布",
+    "nameEn": "Lü Bu",
+    "level": 90,
+    "hp": 495,
+    "phy": 142,
+    "int": 67,
+    "agi": 74,
+    "passive": 1047,
+    "attributes": [
+      121,
+      141
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4017,
+    "name": "キュリー夫人",
+    "nameEn": "Marie Curie",
+    "level": 90,
+    "hp": 267,
+    "phy": 86,
+    "int": 150,
+    "agi": 123,
+    "passive": 1051,
+    "attributes": [
+      107,
+      108,
+      136
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4018,
+    "name": "孫権",
+    "nameEn": "Sun Quan",
+    "level": 90,
+    "hp": 405,
+    "phy": 104,
+    "int": 86,
+    "agi": 123,
+    "passive": 1056,
+    "attributes": [
+      101,
+      121,
+      124
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4019,
+    "name": "カメハメハ大王",
+    "nameEn": "Kamehameha I",
+    "level": 90,
+    "hp": 291,
+    "phy": 131,
+    "int": 123,
+    "agi": 97,
+    "passive": 1060,
+    "attributes": [
+      101,
+      103,
+      129,
+      141
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4020,
+    "name": "カラミティ・ジェーン",
+    "nameEn": "Calamity Jane",
+    "level": 90,
+    "hp": 381,
+    "phy": 74,
+    "int": 131,
+    "agi": 116,
+    "passive": 1062,
+    "attributes": [
+      108,
+      110,
+      111,
+      150
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4021,
+    "name": "ゴッホ",
+    "nameEn": "Vincent van Gogh",
+    "level": 90,
+    "hp": 336,
+    "phy": 67,
+    "int": 157,
+    "agi": 112,
+    "passive": 1065,
+    "attributes": [
+      104,
+      136
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4022,
+    "name": "巴御前",
+    "nameEn": "Tomoe Gozen",
+    "level": 90,
+    "hp": 264,
+    "phy": 172,
+    "int": 49,
+    "agi": 139,
+    "passive": 1067,
+    "attributes": [
+      108,
+      117,
+      141
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4023,
+    "name": "趙雲",
+    "nameEn": "Zhao Yun",
+    "level": 90,
+    "hp": 243,
+    "phy": 154,
+    "int": 67,
+    "agi": 146,
+    "passive": 1069,
+    "attributes": [
+      121,
+      125,
+      141
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4024,
+    "name": "岳飛",
+    "nameEn": "Yue Fei",
+    "level": 90,
+    "hp": 288,
+    "phy": 131,
+    "int": 97,
+    "agi": 124,
+    "passive": 1072,
+    "attributes": [
+      102,
+      128,
+      141
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4025,
+    "name": "武田信玄",
+    "nameEn": "Takeda Shingen",
+    "level": 90,
+    "hp": 402,
+    "phy": 116,
+    "int": 97,
+    "agi": 101,
+    "passive": 1078,
+    "attributes": [
+      102,
+      118
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4026,
+    "name": "カエサル",
+    "nameEn": "Julius Caesar",
+    "level": 90,
+    "hp": 366,
+    "phy": 131,
+    "int": 56,
+    "agi": 139,
+    "passive": 1081,
+    "attributes": [
+      101,
+      103,
+      106,
+      137
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4027,
+    "name": "土方歳三",
+    "nameEn": "Hijikata Toshizo",
+    "level": 90,
+    "hp": 399,
+    "phy": 135,
+    "int": 56,
+    "agi": 124,
+    "passive": 1087,
+    "attributes": [
+      120,
+      204
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4028,
+    "name": "ダーウィン",
+    "nameEn": "Charles Darwin",
+    "level": 90,
+    "hp": 354,
+    "phy": 60,
+    "int": 131,
+    "agi": 139,
+    "passive": 1091,
+    "attributes": [
+      107,
+      113,
+      131
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4029,
+    "name": "ヤマトタケル",
+    "nameEn": "Yamato Takeru",
+    "level": 90,
+    "hp": 366,
+    "phy": 131,
+    "int": 75,
+    "agi": 120,
+    "passive": 1094,
+    "attributes": [
+      126,
+      139
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4030,
+    "name": "モーツァルト",
+    "nameEn": "Wolfgang Amadeus Mozart",
+    "level": 90,
+    "hp": 324,
+    "phy": 49,
+    "int": 160,
+    "agi": 131,
+    "passive": 1101,
+    "attributes": [
+      105,
+      133
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4031,
+    "name": "平将門",
+    "nameEn": "Taira no Masakado",
+    "level": 90,
+    "hp": 435,
+    "phy": 146,
+    "int": 60,
+    "agi": 97,
+    "passive": 1109,
+    "attributes": [
+      117,
+      148
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4032,
+    "name": "上杉謙信",
+    "nameEn": "Uesugi Kenshin",
+    "level": 90,
+    "hp": 312,
+    "phy": 97,
+    "int": 116,
+    "agi": 131,
+    "passive": 1114,
+    "attributes": [
+      118
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4033,
+    "name": "エイブラハム・リンカーン",
+    "nameEn": "Abraham Lincoln",
+    "level": 90,
+    "hp": 300,
+    "phy": 82,
+    "int": 146,
+    "agi": 120,
+    "passive": 1118,
+    "attributes": [
+      103,
+      129,
+      202
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4034,
+    "name": "サトシ・ナカモト OMEGA CC",
+    "nameEn": "SATOSHI・NAKAMOTO OMEGA CC",
+    "level": 90,
+    "hp": 411,
+    "phy": 139,
+    "int": 48,
+    "agi": 124,
+    "passive": 1120,
+    "attributes": [
+      107,
+      149
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4035,
+    "name": "近藤勇",
+    "nameEn": "Kondo Isami",
+    "level": 90,
+    "hp": 447,
+    "phy": 148,
+    "int": 51,
+    "agi": 100,
+    "passive": 1126,
+    "attributes": [
+      120,
+      204
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4036,
+    "name": "黒髭",
+    "nameEn": "Blackbeard",
+    "level": 90,
+    "hp": 393,
+    "phy": 126,
+    "int": 55,
+    "agi": 136,
+    "passive": 1127,
+    "attributes": [
+      109,
+      110,
+      129,
+      205
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4037,
+    "name": "関羽",
+    "nameEn": "Guan Yu",
+    "level": 90,
+    "hp": 357,
+    "phy": 141,
+    "int": 90,
+    "agi": 98,
+    "passive": 1128,
+    "attributes": [
+      121,
+      125,
+      141,
+      203
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4038,
+    "name": "ブリュンヒルド",
+    "nameEn": "Brunhild",
+    "level": 90,
+    "hp": 282,
+    "phy": 167,
+    "int": 52,
+    "agi": 135,
+    "passive": 1134,
+    "attributes": [
+      108,
+      132,
+      139
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4039,
+    "name": "西郷隆盛",
+    "nameEn": "Saigō Takamori",
+    "level": 90,
+    "hp": 474,
+    "phy": 109,
+    "int": 121,
+    "agi": 60,
+    "passive": 1140,
+    "attributes": [
+      113,
+      120
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4040,
+    "name": "韓信",
+    "nameEn": "Han Xin",
+    "level": 90,
+    "hp": 384,
+    "phy": 163,
+    "int": 92,
+    "agi": 65,
+    "passive": 1142,
+    "attributes": [
+      122,
+      141
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4041,
+    "name": "ニコラ・テスラ",
+    "nameEn": "Nikola Tesla",
+    "level": 90,
+    "hp": 327,
+    "phy": 130,
+    "int": 62,
+    "agi": 147,
+    "passive": 1146,
+    "attributes": [
+      107,
+      136,
+      153
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4042,
+    "name": "ブッダ",
+    "nameEn": "Buddha",
+    "level": 90,
+    "hp": 645,
+    "phy": 48,
+    "int": 137,
+    "agi": 48,
+    "passive": 1147,
+    "attributes": [
+      106,
+      138,
+      139,
+      147,
+      208
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4043,
+    "name": "鉄腕アトム",
+    "nameEn": "Astro boy",
+    "level": 90,
+    "hp": 330,
+    "phy": 123,
+    "int": 80,
+    "agi": 135,
+    "passive": 1148,
+    "attributes": [
+      111,
+      126,
+      145,
+      153,
+      208
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4044,
+    "name": "ファーブル",
+    "nameEn": "Jean-Henri Fabre",
+    "level": 90,
+    "hp": 360,
+    "phy": 85,
+    "int": 144,
+    "agi": 99,
+    "passive": 1154,
+    "attributes": [
+      107,
+      127
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4045,
+    "name": "ランスロット",
+    "nameEn": "Lancelot",
+    "level": 90,
+    "hp": 471,
+    "phy": 120,
+    "int": 82,
+    "agi": 89,
+    "passive": 1155,
+    "attributes": [
+      139,
+      140,
+      141,
+      207
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4046,
+    "name": "ラスプーチン",
+    "nameEn": "Grigori Rasputin",
+    "level": 90,
+    "hp": 501,
+    "phy": 77,
+    "int": 83,
+    "agi": 121,
+    "passive": 1156,
+    "attributes": [
+      103,
+      116,
+      134
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4047,
+    "name": "ハンニバル",
+    "nameEn": "Hannibal",
+    "level": 90,
+    "hp": 246,
+    "phy": 116,
+    "int": 104,
+    "agi": 146,
+    "passive": 1164,
+    "attributes": [
+      101,
+      102,
+      146,
+      151
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4048,
+    "name": "周瑜",
+    "nameEn": "Zhou Yu",
+    "level": 90,
+    "hp": 375,
+    "phy": 98,
+    "int": 147,
+    "agi": 78,
+    "passive": 1172,
+    "attributes": [
+      102,
+      103,
+      121,
+      124
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4049,
+    "name": "夏侯惇",
+    "nameEn": "Xiahou Dun",
+    "level": 90,
+    "hp": 426,
+    "phy": 74,
+    "int": 136,
+    "agi": 96,
+    "passive": 1176,
+    "attributes": [
+      103,
+      121,
+      123,
+      151
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4050,
+    "name": "司馬懿仲達",
+    "nameEn": "Sima Yi Zhongda",
+    "level": 90,
+    "hp": 399,
+    "phy": 66,
+    "int": 148,
+    "agi": 101,
+    "passive": 1181,
+    "attributes": [
+      102,
+      121,
+      123
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4051,
+    "name": "ラーマ",
+    "nameEn": "Rama",
+    "level": 90,
+    "hp": 321,
+    "phy": 99,
+    "int": 98,
+    "agi": 144,
+    "passive": 1185,
+    "attributes": [
+      114,
+      139,
+      142,
+      147
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4052,
+    "name": "フランシス・ドレーク",
+    "nameEn": "Francis Drake",
+    "level": 90,
+    "hp": 270,
+    "phy": 81,
+    "int": 78,
+    "agi": 199,
+    "passive": 1188,
+    "attributes": [
+      109,
+      110,
+      114,
+      131
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4053,
+    "name": "ウィリアム・テル",
+    "nameEn": "William Tell",
+    "level": 90,
+    "hp": 447,
+    "phy": 49,
+    "int": 160,
+    "agi": 90,
+    "passive": 1191,
+    "attributes": [
+      136,
+      139,
+      142
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4054,
+    "name": "菅原道真",
+    "nameEn": "Sugawara no Michizane",
+    "level": 90,
+    "hp": 225,
+    "phy": 59,
+    "int": 175,
+    "agi": 139,
+    "passive": 1195,
+    "attributes": [
+      103,
+      117,
+      148
+    ],
+    "faction": 5
+  },
+  {
+    "type": 4055,
+    "name": "本多忠勝",
+    "nameEn": "Honda Tadakatsu",
+    "level": 90,
+    "hp": 324,
+    "phy": 160,
+    "int": 45,
+    "agi": 135,
+    "passive": 1197,
+    "attributes": [
+      118,
+      141
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4056,
+    "name": "夏目漱石",
+    "nameEn": "Natsume Sōseki",
+    "level": 90,
+    "hp": 318,
+    "phy": 72,
+    "int": 141,
+    "agi": 129,
+    "passive": 1199,
+    "attributes": [
+      106,
+      113,
+      126
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4057,
+    "name": "ブーディカ",
+    "nameEn": "Boudica",
+    "level": 90,
+    "hp": 624,
+    "phy": 103,
+    "int": 66,
+    "agi": 71,
+    "passive": 1206,
+    "attributes": [
+      101,
+      108,
+      140,
+      141
+    ],
+    "faction": 1
+  },
+  {
+    "type": 4058,
+    "name": "ヤッターマン1号 & 2号",
+    "nameEn": "Yatterman-1 & 2",
+    "level": 90,
+    "hp": 345,
+    "phy": 77,
+    "int": 79,
+    "agi": 177,
+    "passive": 1207,
+    "attributes": [
+      108,
+      126,
+      152,
+      153
+    ],
+    "faction": 3
+  },
+  {
+    "type": 4059,
+    "name": "コブラ",
+    "nameEn": "Cobra",
+    "level": 90,
+    "hp": 300,
+    "phy": 50,
+    "int": 151,
+    "agi": 147,
+    "passive": 1210,
+    "attributes": [
+      110,
+      114,
+      152,
+      154
+    ],
+    "faction": 4
+  },
+  {
+    "type": 4060,
+    "name": "SUZUISHI",
+    "nameEn": "SUZUISHI",
+    "level": 90,
+    "hp": 348,
+    "phy": 124,
+    "int": 54,
+    "agi": 154,
+    "passive": 1214,
+    "attributes": [
+      108,
+      111,
+      145,
+      214
+    ],
+    "faction": 2
+  },
+  {
+    "type": 4061,
+    "name": "ティルフィング[PK Alterna]",
+    "nameEn": "Tyrfing[PK Alterna]",
+    "level": 90,
+    "hp": 330,
+    "phy": 171,
+    "int": 44,
+    "agi": 123,
+    "passive": 1218,
+    "attributes": [
+      108,
+      136,
+      139
+    ],
+    "faction": 1
+  },
+  {
+    "type": 5001,
+    "name": "織田信長",
+    "nameEn": "Nobunaga Oda",
+    "level": 110,
+    "hp": 459,
+    "phy": 185,
+    "int": 96,
+    "agi": 118,
+    "passive": 1001,
+    "attributes": [
+      101,
+      110,
+      118,
+      201,
+      212
+    ],
+    "faction": 2
+  },
+  {
+    "type": 5002,
+    "name": "ナポレオン・ボナパルト",
+    "nameEn": "Napoleon Bonaparte",
+    "level": 110,
+    "hp": 384,
+    "phy": 105,
+    "int": 181,
+    "agi": 138,
+    "passive": 1002,
+    "attributes": [
+      101,
+      102,
+      113,
+      115,
+      127
+    ],
+    "faction": 4
+  },
+  {
+    "type": 5003,
+    "name": "曹操",
+    "nameEn": "Cao Cao",
+    "level": 100,
+    "hp": 504,
+    "phy": 145,
+    "int": 129,
+    "agi": 87,
+    "passive": 1003,
+    "attributes": [
+      101,
+      121,
+      123
+    ],
+    "faction": 5
+  },
+  {
+    "type": 5004,
+    "name": "ジョージ・ワシントン",
+    "nameEn": "George Washington",
+    "level": 100,
+    "hp": 420,
+    "phy": 120,
+    "int": 140,
+    "agi": 129,
+    "passive": 1004,
+    "attributes": [
+      101,
+      103,
+      129,
+      202
+    ],
+    "faction": 2
+  },
+  {
+    "type": 5005,
+    "name": "レオナルド・ダ・ビンチ",
+    "nameEn": "Leonardo da Vinci",
+    "level": 100,
+    "hp": 381,
+    "phy": 96,
+    "int": 177,
+    "agi": 129,
+    "passive": 1005,
+    "attributes": [
+      104,
+      106,
+      107,
+      130
+    ],
+    "faction": 4
+  },
+  {
+    "type": 5006,
+    "name": "アーサー王",
+    "nameEn": "King Arthur",
+    "level": 100,
+    "hp": 444,
+    "phy": 132,
+    "int": 63,
+    "agi": 185,
+    "passive": 1026,
+    "attributes": [
+      101,
+      139,
+      140,
+      207
+    ],
+    "faction": 5
+  },
+  {
+    "type": 5007,
+    "name": "ジャンヌ・ダルク",
+    "nameEn": "Joan of Arc",
+    "level": 100,
+    "hp": 672,
+    "phy": 108,
+    "int": 108,
+    "agi": 88,
+    "passive": 1027,
+    "attributes": [
+      108,
+      127,
+      138,
+      141,
+      209
+    ],
+    "faction": 5
+  },
+  {
+    "type": 5008,
+    "name": "坂本龍馬",
+    "nameEn": "Ryoma Sakamoto",
+    "level": 100,
+    "hp": 405,
+    "phy": 104,
+    "int": 157,
+    "agi": 132,
+    "passive": 1028,
+    "attributes": [
+      110,
+      120
+    ],
+    "faction": 2
+  },
+  {
+    "type": 5009,
+    "name": "劉備",
+    "nameEn": "Liu Bei ",
+    "level": 100,
+    "hp": 381,
+    "phy": 124,
+    "int": 153,
+    "agi": 124,
+    "passive": 1029,
+    "attributes": [
+      101,
+      121,
+      125,
+      203
+    ],
+    "faction": 3
+  },
+  {
+    "type": 5010,
+    "name": "アインシュタイン",
+    "nameEn": "Albert Einstein",
+    "level": 100,
+    "hp": 453,
+    "phy": 67,
+    "int": 176,
+    "agi": 132,
+    "passive": 1030,
+    "attributes": [
+      107,
+      132,
+      154
+    ],
+    "faction": 4
+  },
+  {
+    "type": 5011,
+    "name": "卑弥呼",
+    "nameEn": "Himiko",
+    "level": 100,
+    "hp": 396,
+    "phy": 119,
+    "int": 163,
+    "agi": 114,
+    "passive": 1055,
+    "attributes": [
+      101,
+      108,
+      116,
+      126,
+      143
+    ],
+    "faction": 5
+  },
+  {
+    "type": 5012,
+    "name": "バッハ",
+    "nameEn": "Johann Sebastian Bach",
+    "level": 100,
+    "hp": 357,
+    "phy": 92,
+    "int": 149,
+    "agi": 168,
+    "passive": 1057,
+    "attributes": [
+      105,
+      132
+    ],
+    "faction": 3
+  },
+  {
+    "type": 5013,
+    "name": "チンギス・ハン",
+    "nameEn": "Genghis Khan",
+    "level": 100,
+    "hp": 345,
+    "phy": 149,
+    "int": 71,
+    "agi": 193,
+    "passive": 1058,
+    "attributes": [
+      101,
+      113,
+      147
+    ],
+    "faction": 1
+  },
+  {
+    "type": 5014,
+    "name": "カール大帝",
+    "nameEn": "Charles the Great",
+    "level": 100,
+    "hp": 300,
+    "phy": 132,
+    "int": 150,
+    "agi": 146,
+    "passive": 1084,
+    "attributes": [
+      101,
+      102,
+      103,
+      137,
+      138
+    ],
+    "faction": 2
+  },
+  {
+    "type": 5015,
+    "name": "諸葛亮",
+    "nameEn": "Zhuge Liang",
+    "level": 100,
+    "hp": 471,
+    "phy": 58,
+    "int": 172,
+    "agi": 141,
+    "passive": 1085,
+    "attributes": [
+      102,
+      103,
+      121,
+      125
+    ],
+    "faction": 3
+  },
+  {
+    "type": 5016,
+    "name": "クレオパトラ",
+    "nameEn": "Cleopatra",
+    "level": 100,
+    "hp": 534,
+    "phy": 58,
+    "int": 142,
+    "agi": 150,
+    "passive": 1086,
+    "attributes": [
+      101,
+      108,
+      141,
+      146,
+      210
+    ],
+    "faction": 3
+  },
+  {
+    "type": 5017,
+    "name": "アレキサンダー",
+    "nameEn": "Alexander the Great",
+    "level": 100,
+    "hp": 483,
+    "phy": 123,
+    "int": 123,
+    "agi": 121,
+    "passive": 1111,
+    "attributes": [
+      101,
+      135,
+      146
+    ],
+    "faction": 1
+  },
+  {
+    "type": 5018,
+    "name": "始皇帝",
+    "nameEn": "Qin Shi Huang",
+    "level": 100,
+    "hp": 588,
+    "phy": 62,
+    "int": 137,
+    "agi": 133,
+    "passive": 1112,
+    "attributes": [
+      101,
+      122
+    ],
+    "faction": 4
+  },
+  {
+    "type": 5019,
+    "name": "源義経",
+    "nameEn": "Minamoto no Yoshitsune",
+    "level": 100,
+    "hp": 429,
+    "phy": 142,
+    "int": 62,
+    "agi": 181,
+    "passive": 1113,
+    "attributes": [
+      117,
+      141
+    ],
+    "faction": 1
+  },
+  {
+    "type": 5020,
+    "name": "ツタンカーメン",
+    "nameEn": "Tutankhamun",
+    "level": 100,
+    "hp": 477,
+    "phy": 161,
+    "int": 91,
+    "agi": 117,
+    "passive": 1135,
+    "attributes": [
+      116,
+      146,
+      148
+    ],
+    "faction": 4
+  },
+  {
+    "type": 5021,
+    "name": "安倍晴明",
+    "nameEn": "Abe no Seimei",
+    "level": 100,
+    "hp": 513,
+    "phy": 94,
+    "int": 168,
+    "agi": 95,
+    "passive": 1136,
+    "attributes": [
+      116,
+      117
+    ],
+    "faction": 5
+  },
+  {
+    "type": 5022,
+    "name": "虞美人",
+    "nameEn": "Consort Yu",
+    "level": 100,
+    "hp": 402,
+    "phy": 160,
+    "int": 114,
+    "agi": 120,
+    "passive": 1150,
+    "attributes": [
+      108,
+      122,
+      213
+    ],
+    "faction": 3
+  },
+  {
+    "type": 5023,
+    "name": "リチャード1世",
+    "nameEn": "Richard I",
+    "level": 100,
+    "hp": 375,
+    "phy": 157,
+    "int": 89,
+    "agi": 157,
+    "passive": 1151,
+    "attributes": [
+      101,
+      131
+    ],
+    "faction": 2
+  },
+  {
+    "type": 5024,
+    "name": "葛飾北斎",
+    "nameEn": "Hokusai",
+    "level": 100,
+    "hp": 528,
+    "phy": 52,
+    "int": 169,
+    "agi": 131,
+    "passive": 1167,
+    "attributes": [
+      104,
+      119
+    ],
+    "faction": 3
+  },
+  {
+    "type": 5025,
+    "name": "項羽",
+    "nameEn": "Xiang Yu",
+    "level": 100,
+    "hp": 501,
+    "phy": 163,
+    "int": 71,
+    "agi": 127,
+    "passive": 1168,
+    "attributes": [
+      122,
+      213
+    ],
+    "faction": 1
+  },
+  {
+    "type": 5026,
+    "name": "劉邦",
+    "nameEn": "Liu Bang",
+    "level": 100,
+    "hp": 498,
+    "phy": 156,
+    "int": 73,
+    "agi": 133,
+    "passive": 1169,
+    "attributes": [
+      101,
+      122,
+      213
+    ],
+    "faction": 2
+  },
+  {
+    "type": 5027,
+    "name": "ガリレオ・ガリレイ",
+    "nameEn": "Galileo Galilei",
+    "level": 100,
+    "hp": 468,
+    "phy": 71,
+    "int": 164,
+    "agi": 137,
+    "passive": 1174,
+    "attributes": [
+      107,
+      130,
+      154
+    ],
+    "faction": 5
+  },
+  {
+    "type": 5028,
+    "name": "那須与一",
+    "nameEn": "Nasu no Yoichi",
+    "level": 100,
+    "hp": 555,
+    "phy": 158,
+    "int": 65,
+    "agi": 120,
+    "passive": 1175,
+    "attributes": [
+      117,
+      142
+    ],
+    "faction": 1
+  },
+  {
+    "type": 5029,
+    "name": "エドワード黒太子",
+    "nameEn": "Edward the Black Prince",
+    "level": 100,
+    "hp": 390,
+    "phy": 165,
+    "int": 82,
+    "agi": 151,
+    "passive": 1179,
+    "attributes": [
+      101,
+      102,
+      131
+    ],
+    "faction": 1
+  },
+  {
+    "type": 5030,
+    "name": "武則天",
+    "nameEn": "Wu Zetian",
+    "level": 100,
+    "hp": 423,
+    "phy": 83,
+    "int": 144,
+    "agi": 160,
+    "passive": 1180,
+    "attributes": [
+      101,
+      103,
+      108,
+      128
+    ],
+    "faction": 5
+  },
+  {
+    "type": 5031,
+    "name": "スキピオ・アフリカヌス",
+    "nameEn": "Scipio Africanus",
+    "level": 100,
+    "hp": 468,
+    "phy": 145,
+    "int": 141,
+    "agi": 86,
+    "passive": 1200,
+    "attributes": [
+      102,
+      103,
+      146
+    ],
+    "faction": 1
+  },
+  {
+    "type": 5032,
+    "name": "宮本武蔵",
+    "nameEn": "Miyamoto Musashi",
+    "level": 100,
+    "hp": 438,
+    "phy": 181,
+    "int": 82,
+    "agi": 119,
+    "passive": 1201,
+    "attributes": [
+      111,
+      119
+    ],
+    "faction": 4
+  },
+  {
+    "type": 5033,
+    "name": "YATAGARASU",
+    "nameEn": "YATAGARASU",
+    "level": 100,
+    "hp": 477,
+    "phy": 143,
+    "int": 143,
+    "agi": 83,
+    "passive": 1213,
+    "attributes": [
+      111,
+      151,
+      214
+    ],
+    "faction": 4
+  },
+  {
+    "type": 10001,
+    "name": "MCHウォーリアー",
+    "nameEn": "MCH Warrior",
+    "level": 40,
+    "hp": 162,
+    "phy": 63,
+    "int": 42,
+    "agi": 53,
+    "passive": 1017,
+    "attributes": [],
+    "faction": 1
+  },
+  {
+    "type": 10002,
+    "name": "MCHタクティシャン",
+    "nameEn": "MCH Tactician",
+    "level": 40,
+    "hp": 162,
+    "phy": 42,
+    "int": 63,
+    "agi": 53,
+    "passive": 1018,
+    "attributes": [],
+    "faction": 2
+  },
+  {
+    "type": 10003,
+    "name": "MCHアーティスト",
+    "nameEn": "MCH Artist",
+    "level": 40,
+    "hp": 159,
+    "phy": 53,
+    "int": 53,
+    "agi": 53,
+    "passive": 1019,
+    "attributes": [],
+    "faction": 3
+  }
+]

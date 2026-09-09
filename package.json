@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "describe": "node --experimental-strip-types scripts/describe.mjs"
+  }
+}

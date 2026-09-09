@@ -1,0 +1,66 @@
+{
+  "seed": 12345,
+  "catalogVersion": "2026-09-06",
+  "team": [
+    {
+      "name": "コナン・ドイル",
+      "heroType": 1001,
+      "hp": 192,
+      "phy": 25,
+      "int": 69,
+      "agi": 138,
+      "passive": 1104,
+      "attributes": [
+        106,
+        131,
+        149
+      ],
+      "faction": 3,
+      "actives": [
+        2002,
+        2002,
+        2002
+      ]
+    },
+    {
+      "name": "甲斐姫",
+      "heroType": 1002,
+      "hp": 162,
+      "phy": 79,
+      "int": 45,
+      "agi": 118,
+      "passive": 1106,
+      "attributes": [
+        108,
+        118,
+        141
+      ],
+      "faction": 1,
+      "actives": [
+        2002,
+        2002,
+        2002
+      ]
+    },
+    {
+      "name": "張遼",
+      "heroType": 1003,
+      "hp": 222,
+      "phy": 67,
+      "int": 62,
+      "agi": 93,
+      "passive": 1159,
+      "attributes": [
+        121,
+        123,
+        144
+      ],
+      "faction": 5,
+      "actives": [
+        2002,
+        2002,
+        2002
+      ]
+    }
+  ]
+}
