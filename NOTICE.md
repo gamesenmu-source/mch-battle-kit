@@ -1,8 +1,8 @@
 # 由来と利用条件 / Provenance and rights
 
-公開用の匿名化: スキル20060の表示名はアドレス形式のため「スキル20060 / Skill 20060」に置換しています。計算データは変更していません。
+戦闘計算および生成済みメッセージ型はMy Crypto HeroesのGo実装を基に、MCH LITE ARENA向けに分離・変更したものです。元の著作権は各権利者に帰属します。本リポジトリに収録するコード・計算データ・画像・音声は、権利者の許諾に基づき、非営利目的に限り利用できます。営利目的での利用を希望する場合は、事前にMCH社に相談し、許諾を得てください。この公開は、MIT等の営利利用を含む包括的な再利用ライセンスを付与するものではありません。
 
-戦闘計算および生成済みメッセージ型はMy Crypto HeroesのGo実装を基に、MCH LITE ARENA向けに分離・変更したものです。元の著作権は各権利者に帰属します。この公開はサイトの所有者の依頼によるコード・計算データの公開であり、MIT等の包括的な再利用ライセンスを新たに付与するものではありません。再配布・商用利用等の許諾が必要な場合は公開者に確認してください。
+The code, calculation data, images, and audio included in this repository may be used for non-commercial purposes only, with permission from the rights holders. For any commercial use, please consult MCH in advance and obtain permission. Publication does not grant an unrestricted license such as MIT.
 
 権利者の追加許可により、docs/MEDIA.md記載の画像・音声を収録しています。除外指定のコラボ素材、社内文書、元リポジトリの履歴、運営用設定、利用者情報は含めていません。名称の記載はキャラクターや商標の利用許諾を意味しません。
 
